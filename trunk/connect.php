@@ -1,3 +1,4 @@
+// hello this is just for testing
 <?php
 
 $mysql_host='localhost';
